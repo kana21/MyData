@@ -1,0 +1,29 @@
+[
+  {
+    "imageFile": "book01",
+    "ISBN": "1492063002",
+    "bookName": "Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines ",
+    "author": "Pierre-Olivier Laurence, Amanda Hinchman-Dominguez, G. Blake Meike, Mike Dunn",
+    "description": "Learning Android programming can be challenging. Sure, there is plenty of documentation, but the tools and libraries available today for Android are easily overwhelming for newcomers to Android and Kotlin.\n\nAndroid Apprentice takes a different approach. From building a simple first app, all the way to a fully featured podcast player app, this book walks you step-by-step, building on basic concepts to advanced techniques so you can build amazing apps worthy of the Google Play Store!",
+    "price": 10.10,
+    "pages": 354
+  },
+  {
+    "imageFile": "book02",
+    "ISBN": "1119696216",
+    "bookName": "Programming Kotlin Applications: Building Mobile and Server-Side Applications with Kotlin",
+    "author": "Brett McLaughlin",
+    "description": "",
+    "price": 30.10,
+    "pages": 200
+  },
+  {
+    "imageFile": "book03",
+    "ISBN": "194287877X",
+    "bookName": " Beginning Android Development with Kotlin ",
+    "author": "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
+    "description": "Learning Android programming can be challenging. Sure, there is plenty of documentation, but the tools and libraries available today for Android are easily overwhelming for newcomers to Android and Kotlin.",
+    "price": 20.10,
+    "pages": 676
+  }
+]
